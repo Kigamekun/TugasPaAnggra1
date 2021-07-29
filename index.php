@@ -4,9 +4,9 @@
    <meta charset="UTF-8">
    <title>Document</title>
     <meta charset="UTF-8">
-        <meta name="description" content="Masukan profile singkat tentang website anda">
+        <meta name="description" content="Just programmer and weebs">
         <meta name="keywords" content="HTML,CSS,Website">
-        <meta name="author" content="Nama anda">
+        <meta name="author" content="Kigame">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
 </head>
 <body>
