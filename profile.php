@@ -159,8 +159,8 @@
                     <a style="text-decoration:none;" href="index.php"><i class="fa fa-home"></i> <strong>Beranda</strong></a>
                     <a style="text-decoration:none;" href="profile.php"><i class="fa fa-user"></i> Profile</a>
                     <a style="text-decoration:none;" href="galeri_gambar.php"><i class="fas fa-images"></i> Galeri Gambar</a>
-                    <a style="text-decoration:none;" href="galeri_vidio.php"><i class="fas fa-photo-video"></i> Galeri Vidio</a>
-                    <a style="text-decoration:none;" href="kontak.php"><i class="fas fa-address-book"></i> <b>Kontak</b></a>
+                    <a style="text-decoration:none;" href="galeri_video.php"><i class="fas fa-photo-video"></i> Galeri Vidio</a>
+                    <a style="text-decoration:none;" href="contact.php"><i class="fas fa-address-book"></i> <b>Kontak</b></a>
                     <!-- dibawah ini adalah termasuk dalam jenis external link-->
                 
                 </td>    
